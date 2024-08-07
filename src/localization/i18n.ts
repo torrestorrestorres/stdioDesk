@@ -10,11 +10,12 @@ i18n.use(initReactI18next).init({
                 description: "This is an example of translation in en",
             },
         },
-        "pt-BR": {
+        "pt-DE": {
             translation: {
-                title: "Página Inicial",
-                description: "Este é um exemplo de tradução em pt_BR",
+                title: "Startseite",
+                description: "Das ist ein Beispiel für Übersetzung in de",
             },
         },
+
     },
 });
