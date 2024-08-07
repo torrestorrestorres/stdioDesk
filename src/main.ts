@@ -21,7 +21,6 @@ function createWindow() {
 
             preload: preload,
         },
-        titleBarStyle: "hidden",
     });
     registerListeners(mainWindow);
 

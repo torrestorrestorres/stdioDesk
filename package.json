@@ -1,8 +1,8 @@
 {
-    "name": "electron-shadcn",
-    "productName": "electron-shadcn Template",
+    "name": "studiodesk",
+    "productName": "StdioDesk",
     "version": "1.0.0",
-    "description": "Electron Forge with shadcn-ui (Vite + Typescript)",
+    "description": "A desktop application for managing your web-projects, creating and managing your projects and fasten your workflow.",
     "main": ".vite/build/main.js",
     "scripts": {
         "start": "electron-forge start",
@@ -18,7 +18,7 @@
         "test:e2e": "playwright test",
         "test:all": "jest && playwright test"
     },
-    "author": "ROG <luan.roger.2003@gmail.com>",
+    "author": "Tristan Wingert",
     "license": "MIT",
     "devDependencies": {
         "@electron-forge/cli": "^7.4.0",
